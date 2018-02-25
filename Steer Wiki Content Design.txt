@@ -1,0 +1,21 @@
+Steer Wiki
+
+Welcome to Steer Wiki
+The wiki that will make you fast!
+
+History of Cars
+
+Type of Cars
+
+Different Types of Car Engines
+	Inline
+	Box
+	Vee
+	
+Different Types of Drive
+	Front Wheel
+	Rear Wheel
+	All Wheel
+
+
+
